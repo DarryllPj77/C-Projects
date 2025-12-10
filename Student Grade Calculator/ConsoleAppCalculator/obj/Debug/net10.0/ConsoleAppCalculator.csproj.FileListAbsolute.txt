@@ -1,0 +1,15 @@
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Student Grade Calculator\ConsoleAppCalculator\bin\Debug\net10.0\ConsoleAppCalculator.exe
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Student Grade Calculator\ConsoleAppCalculator\bin\Debug\net10.0\ConsoleAppCalculator.deps.json
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Student Grade Calculator\ConsoleAppCalculator\bin\Debug\net10.0\ConsoleAppCalculator.runtimeconfig.json
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Student Grade Calculator\ConsoleAppCalculator\bin\Debug\net10.0\ConsoleAppCalculator.dll
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Student Grade Calculator\ConsoleAppCalculator\bin\Debug\net10.0\ConsoleAppCalculator.pdb
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Student Grade Calculator\ConsoleAppCalculator\obj\Debug\net10.0\ConsoleAppCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Student Grade Calculator\ConsoleAppCalculator\obj\Debug\net10.0\ConsoleAppCalculator.AssemblyInfoInputs.cache
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Student Grade Calculator\ConsoleAppCalculator\obj\Debug\net10.0\ConsoleAppCalculator.AssemblyInfo.cs
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Student Grade Calculator\ConsoleAppCalculator\obj\Debug\net10.0\ConsoleAppCalculator.csproj.CoreCompileInputs.cache
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Student Grade Calculator\ConsoleAppCalculator\obj\Debug\net10.0\ConsoleAppCalculator.dll
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Student Grade Calculator\ConsoleAppCalculator\obj\Debug\net10.0\refint\ConsoleAppCalculator.dll
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Student Grade Calculator\ConsoleAppCalculator\obj\Debug\net10.0\ConsoleAppCalculator.pdb
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Student Grade Calculator\ConsoleAppCalculator\obj\Debug\net10.0\ConsoleAppCalculator.genruntimeconfig.cache
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Student Grade Calculator\ConsoleAppCalculator\obj\Debug\net10.0\ref\ConsoleAppCalculator.dll
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Student Grade Calculator\ConsoleAppCalculator\obj\Debug\net10.0\ConsoleAppCalculator.sourcelink.json
