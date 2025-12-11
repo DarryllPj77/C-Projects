@@ -1,0 +1,15 @@
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Simple ATM Simulator\ATM Simulator\bin\Debug\net10.0\ATM Simulator.exe
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Simple ATM Simulator\ATM Simulator\bin\Debug\net10.0\ATM Simulator.deps.json
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Simple ATM Simulator\ATM Simulator\bin\Debug\net10.0\ATM Simulator.runtimeconfig.json
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Simple ATM Simulator\ATM Simulator\bin\Debug\net10.0\ATM Simulator.dll
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Simple ATM Simulator\ATM Simulator\bin\Debug\net10.0\ATM Simulator.pdb
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Simple ATM Simulator\ATM Simulator\obj\Debug\net10.0\ATM Simulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Simple ATM Simulator\ATM Simulator\obj\Debug\net10.0\ATM Simulator.AssemblyInfoInputs.cache
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Simple ATM Simulator\ATM Simulator\obj\Debug\net10.0\ATM Simulator.AssemblyInfo.cs
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Simple ATM Simulator\ATM Simulator\obj\Debug\net10.0\ATM Simulator.csproj.CoreCompileInputs.cache
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Simple ATM Simulator\ATM Simulator\obj\Debug\net10.0\ATM Simulator.sourcelink.json
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Simple ATM Simulator\ATM Simulator\obj\Debug\net10.0\ATM Simulator.dll
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Simple ATM Simulator\ATM Simulator\obj\Debug\net10.0\refint\ATM Simulator.dll
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Simple ATM Simulator\ATM Simulator\obj\Debug\net10.0\ATM Simulator.pdb
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Simple ATM Simulator\ATM Simulator\obj\Debug\net10.0\ATM Simulator.genruntimeconfig.cache
+E:\Darryll pogi\FEU files Darryll\Coding at VSC\C# Projects\Projects\Simple ATM Simulator\ATM Simulator\obj\Debug\net10.0\ref\ATM Simulator.dll
