@@ -1,0 +1,3 @@
+Washing Dishes|True
+Eating|False
+Watering the Plants|False
